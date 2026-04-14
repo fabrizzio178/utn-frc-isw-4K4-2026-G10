@@ -1,9 +1,21 @@
 # Plan de Gestión de Configuración (SCM) - ISW 4k4
 
-* **Grupo:** 10
 * **Asignatura:** Ingeniería y Calidad de Software
 * **Año:** 2026
 * **Curso:** 4K4
+* **Grupo:** 10
+* **Integrantes:** 
+  * **Carranza Duobaitis**, Candelaria (402600)
+  * **Cavina Pellis**, Manuel (95648)
+  * **Llabot**, Ignacio Martín (403083)
+  * **Maldonado**, Franco Gabriel (92123)
+  * **Marti**, Eliazar Alexis (403419)
+  * **Martínez Agliozzo**, Luz María (94415)
+  * **Nobile**, Bruno Nicolas (92098)
+  * **Palomeque Galindo**, Matías Ezequiel (94482)
+  * **Salvatico**, Francisco (403815)
+  * **Sana**, Fabrizzio (98161)
+  * **Schurrer**, Gabriel Nicolas (95046)
 
 ---
 
